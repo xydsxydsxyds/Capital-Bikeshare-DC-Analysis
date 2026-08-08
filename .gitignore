@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+/data/
+outputs/
+tmp/
+Capital_Bikeshare_DC_项目方案.md

@@ -1,0 +1,23 @@
+{
+  "last_updated": 1786147200,
+  "ttl": 60,
+  "version": "2.3",
+  "data": {
+    "stations": [
+      {
+        "station_id": "A",
+        "name": "Grid A Station",
+        "lat": 38.90116295222856,
+        "lon": -77.02096651012789,
+        "capacity": 10
+      },
+      {
+        "station_id": "B",
+        "name": "Grid B Station",
+        "lat": 38.90996863593391,
+        "lon": -77.03274858509862,
+        "capacity": 10
+      }
+    ]
+  }
+}
