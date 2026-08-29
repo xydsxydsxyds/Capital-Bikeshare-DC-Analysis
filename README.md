@@ -210,3 +210,7 @@ python -m unittest discover -s tests -v
 ```
 
 测试覆盖预处理、跨块去重、时间聚合、站点与网格统计、预测特征防泄漏、仪表板聚合一致性、GBFS 快照标准化、统一网格映射、历史流量画像和调度约束。
+
+## License
+
+MIT
